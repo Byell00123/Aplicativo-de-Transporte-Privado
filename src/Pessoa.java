@@ -40,8 +40,5 @@ public abstract class Pessoa extends Endereco{
         this.data_nasc = data_nasc;
     }
 
-    
-    
-
 
 }
